@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FigmaTestUI</string>
+    <string name="active">Active</string>
+    <string name="wallet">Wallet</string>
+    <string name="balance">Balance</string>
+    <string name="money">$ 1.234</string>
+    <string name="card">Card</string>
+    <string name="name_bank">Mabank</string>
+    <string name="transfer">Transfer</string>
+    <string name="top_up">Top up</string>
+    <string name="payment">Payment</string>
+    <string name="payout">Payout</string>
+    <string name="last_transaction">Last Transaction</string>
+    <string name="view_all">View All</string>
+    <string name="netflix">Netflix</string>
+    <string name="month_subscription">Month subscription</string>
+    <string name="_12">$12</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
